@@ -1,1 +1,2 @@
 print("Hollow World!")
+print("Hollow evrybody")
